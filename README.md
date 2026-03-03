@@ -290,12 +290,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact & Support
 
-- 📧 **Email**: your.email@example.com
-- 💼 **LinkedIn**: [Your Profile](https://linkedin.com/in/yourprofile)
-- 🐦 **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
-- 🌐 **Portfolio**: [yourwebsite.com](https://yourwebsite.com)
+- 📧 **Email**: kushwahsuraj5367@gmail.com
+- 💼 **LinkedIn**:[www.linkedin.com/in/abhishek-kushwah-215b89260]
 
 ---
+
 
 ## ⭐ Star History
 
@@ -318,6 +317,6 @@ If this project helped you, please consider giving it a star! ⭐
 
 **Built with ❤️ for learning and experimentation**
 
-[Report Bug](https://github.com/yourusername/rag-document-assistant/issues) · [Request Feature](https://github.com/yourusername/rag-document-assistant/issues) · [Documentation](https://github.com/yourusername/rag-document-assistant/wiki)
+[Report Bug](https://github.com/Abhishekkushwah232/rag-document-assistant/issues) · [Request Feature](https://github.com/Abhishekkushwah232/rag-document-assistant/issues) · [Documentation](https://github.com/Abhishekkushwah232/rag-document-assistant/wiki)
 
 </div>    
