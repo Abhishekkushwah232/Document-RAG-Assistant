@@ -290,10 +290,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact & Support
 
-- 📧 **Email**: your.email@example.com
-- 💼 **LinkedIn**: [Your Profile](https://linkedin.com/in/yourprofile)
-- 🐦 **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
-- 🌐 **Portfolio**: [yourwebsite.com](https://yourwebsite.com)
+- 📧 **Email**: abhi.official.1a@gmail.com
+- 💼 **LinkedIn**: [www.linkedin.com/in/abhishek-kushwah-215b89260]
+
 
 ---
 
@@ -301,16 +300,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If this project helped you, please consider giving it a star! ⭐
 
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/rag-document-assistant&type=Date)](https://star-history.com/#yourusername/rag-document-assistant&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/rag-document-assistant&type=Date)](https://star-history.com/#Abhishekkushwah232/rag-document-assistant&Date)
 
 ---
 
 ## 📈 Project Stats
 
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/rag-document-assistant)
-![GitHub contributors](https://img.shields.io/github/contributors/yourusername/rag-document-assistant)
-![GitHub stars](https://img.shields.io/github/stars/yourusername/rag-document-assistant?style=social)
-![GitHub forks](https://img.shields.io/github/forks/yourusername/rag-document-assistant?style=social)
+![GitHub repo size](https://img.shields.io/github/repo-size/Abhishekkushwah232/rag-document-assistant)
+![GitHub contributors](https://img.shields.io/github/contributors/Abhishekkushwah232/rag-document-assistant)
+![GitHub stars](https://img.shields.io/github/stars/Abhishekkushwah232/rag-document-assistant?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Abhishekkushwah232/rag-document-assistant?style=social)
 
 ---
 
@@ -318,6 +317,6 @@ If this project helped you, please consider giving it a star! ⭐
 
 **Built with ❤️ for learning and experimentation**
 
-[Report Bug](https://github.com/yourusername/rag-document-assistant/issues) · [Request Feature](https://github.com/yourusername/rag-document-assistant/issues) · [Documentation](https://github.com/yourusername/rag-document-assistant/wiki)
+[Report Bug](https://github.com/Abhishekkushwah232/rag-document-assistant/issues) · [Request Feature](https://github.com/Abhishekkushwah232/rag-document-assistant/issues) · [Documentation](https://github.com/Abhishekkushwah232/rag-document-assistant/wiki)
 
 </div>    
