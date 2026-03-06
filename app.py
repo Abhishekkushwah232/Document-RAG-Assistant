@@ -18,8 +18,8 @@ from src.uploader import save_uploaded_file
 # Page Config  (must be first Streamlit call)
 # ─────────────────────────────────────────────
 st.set_page_config(
-    page_title="MedRAG · Healthcare Assistant",
-    page_icon="🩺",
+    page_title="Folio · Document Intelligence",
+    page_icon="📚",
     layout="wide",
     initial_sidebar_state="collapsed",
 )
@@ -256,7 +256,7 @@ with col_main:
     st.markdown(
         """
         <div class="hero">
-            <div class="hero-icon">🩺</div>
+            <div class="hero-icon">📚</div>
             <div>
                 <div class="hero-title">Med<span>RAG</span></div>
                 <div class="hero-sub">Healthcare Document Intelligence</div>
