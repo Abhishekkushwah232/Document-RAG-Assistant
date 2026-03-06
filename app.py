@@ -258,8 +258,8 @@ with col_main:
         <div class="hero">
             <div class="hero-icon">📚</div>
             <div>
-                <div class="hero-title">Med<span>RAG</span></div>
-                <div class="hero-sub">Healthcare Document Intelligence</div>
+                <div class="hero-title">Fo<span>lio</span></div>
+                <div class="hero-sub">Document Intelligence Assistant</div>
             </div>
         </div>
         <hr class="hr">
