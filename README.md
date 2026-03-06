@@ -290,11 +290,17 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact & Support
 
+<<<<<<< HEAD
 - 📧 **Email**: abhi.official.1a@gmail.com
 - 💼 **LinkedIn**: [www.linkedin.com/in/abhishek-kushwah-215b89260]
 
+=======
+- 📧 **Email**: kushwahsuraj5367@gmail.com
+- 💼 **LinkedIn**:[www.linkedin.com/in/abhishek-kushwah-215b89260]
+>>>>>>> 9d8aef25b610750f470f6c677108c7b5e4b5d070
 
 ---
+
 
 ## ⭐ Star History
 
